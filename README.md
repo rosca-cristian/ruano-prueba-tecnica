@@ -1,4 +1,4 @@
-# Instruccion de onfiguración/ejecución
+# Instruccion de configuración/ejecución
 
 1. Clonar repositorio
 2. Acceder a la carpeta
