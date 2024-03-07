@@ -12,7 +12,7 @@ const routes = [{
     title: 'Movies',
 },
 {
-    path: '/home',
+    path: '/',
     element: HomePage,
     title: 'Titles',
 },

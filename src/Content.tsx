@@ -22,8 +22,8 @@ export default function Content() {
             />
           ))}
           <Route
-            path='*'
-            element={<Navigate to='/home' />}
+            path='/'
+            element={<Navigate to='/' />}
           />
         </Routes>
       </div>

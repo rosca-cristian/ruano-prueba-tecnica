@@ -50,7 +50,7 @@ export default function Footer() {
 
   return <footer style={footerStyles} >
     <div style={linksStyles}>
-      <Link to='/home' style={{ color: 'white', textDecoration: 'none', marginRight: '15px' }}>Home</Link>
+      <Link to='/' style={{ color: 'white', textDecoration: 'none', marginRight: '15px' }}>Home</Link>
       <a href='/termsandconditions' style={aTagStyles}>Terms and Conditions</a>
       <a href='/privacypolicy' style={aTagStyles}>Privacy Policy</a>
       <a href='/collectionstatement' style={aTagStyles}>Collection Statement</a>
